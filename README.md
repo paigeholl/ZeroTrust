@@ -6,7 +6,7 @@ When I started learning cybersecurity, I kept seeing Zero Trust mentioned in job
 
 ## "Never Trust, Always Verify" in Real Life
 
-Zero Trust isn't a product you install. It's a mindset. Instead of assuming something is safe because it's "inside the network," Zero Trust treats every request like it's coming from the open internet.
+Zero Trust isn't a product you install. It's a mindset. Instead of assuming something is safe because it's "inside the network," Zero Trust treats every request like it's coming from the open internet. I like to relate it to a more strict version of a quote that was always said while I was in the militray, "Trust but Verify."
 
 That means:
 
